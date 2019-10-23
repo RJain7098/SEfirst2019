@@ -7,4 +7,6 @@ comment1.text=\n\ Constructor\ for\ objects\ of\ class\ MyProgram\n
 comment2.params=y
 comment2.target=int\ sampleMethod(int)
 comment2.text=\n\ An\ example\ of\ a\ method\ -\ replace\ this\ comment\ with\ your\ own\n\n\ @param\ \ y\ \ a\ sample\ parameter\ for\ a\ method\n\ @return\ \ \ \ the\ sum\ of\ x\ and\ y\n
-numComments=3
+comment3.params=args
+comment3.target=void\ main(java.lang.String[])
+numComments=4

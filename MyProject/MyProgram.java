@@ -30,4 +30,9 @@ public class MyProgram
         // put your code here
         return x + y;
     }
+    public static void main(String[] args)
+    {
+        System.out.println("This is a test program"); 
+    }
+    
 }
